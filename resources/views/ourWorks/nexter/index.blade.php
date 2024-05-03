@@ -1,0 +1,11 @@
+<x-nexter.layout>
+    <x-nexter.sidebar/>
+    <x-nexter.header/>
+    <x-nexter.section-realtors/>
+    <x-nexter.section-features/>
+    <x-nexter.section-story__pictures/>
+    <x-nexter.section-story__content/>
+    <x-nexter.section-homes/>
+    <x-nexter.section-gallery/>
+    <x-nexter.footer/>
+</x-nexter.layout>
