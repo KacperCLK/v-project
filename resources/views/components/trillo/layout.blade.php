@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="{{ url('css/icon-font.css') }}">
 
         @livewireStyles
-        @vite(['resources/css/app.css', 'resources/scss/trillo/main.scss', 'resources/js/app.js'])
+        @vite(['resources/css/trillo/app.css', 'resources/scss/trillo/main.scss', 'resources/js/app.js'])
     </head>
     <body>
         {{$slot}}
