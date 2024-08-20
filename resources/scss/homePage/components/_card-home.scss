@@ -16,7 +16,11 @@
     }
 
     @media only screen and (max-width: $bp-small) {
-        height: auto;
+        height: $card-height-small;
+    }
+
+    @media only screen and (max-width: $bp-smallest) {
+        height: $card-height-smallest;
     }
 
     &__background{

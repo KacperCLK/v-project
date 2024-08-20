@@ -1,6 +1,6 @@
 <nav class="header">
     <input type="checkbox" class="header__checkbox" id="navi-toggle">
-    <label id="toggle-button" class="header__toggle-button" for="navi-toggle">
+    <label id="toggle-button" class="header__toggle-button header--unactive" for="navi-toggle">
         Menu
     </label>
 
